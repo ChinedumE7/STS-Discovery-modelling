@@ -1,5 +1,5 @@
 # STS-Discovery-modelling
-I and my team modelled the Space Transportation System "Discovery". I modelled the wings, the cockpit window, and the manoeuvring engine casing. I also did the entire assembly, aesthetics (renders, logos, colors), and motion studies.
+My team and I modelled the Space Transportation System "Discovery". I modelled the wings, the cockpit window, and the manoeuvring engine casing. I also assembled all our parts together into the complete Space Transportation System, did the aesthetics (renders, logos, colors), and created the motion studies.
 __________________________________________________________________________________________________________________________________________________________________________________________________
 `STS DISCOVERY FULL RENDERED MODEL`
 <img width="1626" height="2160" alt="PERSONAL STS RENDER" src="https://github.com/user-attachments/assets/8e8574b5-7629-42ca-9ab7-b292c6364218" />
@@ -18,6 +18,14 @@ STS DISCOVERY ORBITER WINDOW
 
 __________________________________________________________________________________________________________________________________________________________________________________________________
 
+`STS DISCOVERY ROTATIONAL MOTION STUDY`
 
 https://github.com/user-attachments/assets/15dd08f3-0421-49c4-b2b2-a8aa1481a13d
+
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+`STS DISCOVERY ELEVON MOTION STUDY`
+
+https://github.com/user-attachments/assets/ba05ac62-ed9c-43cf-a6d5-da8e2d8dbd5d
+
 
